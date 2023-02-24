@@ -4,3 +4,5 @@
 
 - https://skorks.com/2011/09/why-developers-never-use-state-machines/: Why developers never use state machines 
 
+- https://boz.com/articles/focus: Focus 
+
