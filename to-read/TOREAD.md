@@ -12,3 +12,5 @@
 
 - https://www.linkedin.com/feed/update/urn:li:activity:7024703661683482624/: System desig tempalte 
 
+- https://www.scarletink.com/disagree-and-commit-getting-things-done/: Disagree and commit 
+
