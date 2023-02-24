@@ -8,3 +8,5 @@
 
 - https://www.infoq.com/presentations/Clojure-Design-Patterns/: Clojure design patterns 
 
+- https://adrianco.medium.com/platform-engineering-teams-done-right-b3b3d4a8ad23: Platform engineering teams done right 
+
