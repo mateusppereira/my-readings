@@ -6,3 +6,5 @@
 
 - https://boz.com/articles/focus: Focus 
 
+- https://www.infoq.com/presentations/Clojure-Design-Patterns/: Clojure design patterns 
+
