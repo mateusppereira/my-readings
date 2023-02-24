@@ -10,3 +10,5 @@
 
 - https://adrianco.medium.com/platform-engineering-teams-done-right-b3b3d4a8ad23: Platform engineering teams done right 
 
+- https://www.linkedin.com/feed/update/urn:li:activity:7024703661683482624/: System desig tempalte 
+
