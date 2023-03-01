@@ -4,8 +4,6 @@
 
 - https://skorks.com/2011/09/why-developers-never-use-state-machines/: Why developers never use state machines 
 
-- https://boz.com/articles/focus: Focus 
-
 - https://www.infoq.com/presentations/Clojure-Design-Patterns/: Clojure design patterns 
 
 - https://adrianco.medium.com/platform-engineering-teams-done-right-b3b3d4a8ad23: Platform engineering teams done right 
@@ -13,4 +11,6 @@
 - https://www.linkedin.com/feed/update/urn:li:activity:7024703661683482624/: System desig tempalte 
 
 - https://www.scarletink.com/disagree-and-commit-getting-things-done/: Disagree and commit 
+
+- https://lambdaisland.com/blog/2022-03-10-mechanism-vs-policy: Writing controllers, mechanism vs policy 
 
