@@ -14,3 +14,5 @@
 
 - https://lambdaisland.com/blog/2022-03-10-mechanism-vs-policy: Writing controllers, mechanism vs policy 
 
+- https://www.youtube.com/watch?v=1KeYzjILqDo: shared on nubank channel 
+
