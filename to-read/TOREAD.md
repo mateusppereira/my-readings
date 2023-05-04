@@ -10,3 +10,5 @@
 
 - https://www.youtube.com/watch?v=1KeYzjILqDo: shared on nubank channel 
 
+- https://www.youtube.com/watch?v=fTtnx1AAJ-c: Clojure: desing in practice 
+
