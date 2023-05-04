@@ -12,3 +12,5 @@
 
 - https://www.youtube.com/watch?v=fTtnx1AAJ-c: Clojure: desing in practice 
 
+- https://www.youtube.com/watch?v=NVBq3CUXsuE: Clojure conf: Scaling architecture 
+
