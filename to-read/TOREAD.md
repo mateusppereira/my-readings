@@ -12,3 +12,5 @@
 
 - https://www.youtube.com/watch?v=NVBq3CUXsuE: Clojure conf: Scaling architecture 
 
+- https://www.infoq.com/presentations/microservices-netflix-industry/: Microservices retrospective: what we learned (and didnt) from Netflix 
+
