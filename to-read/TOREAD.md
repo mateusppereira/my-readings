@@ -14,3 +14,5 @@
 
 - https://www.infoq.com/presentations/microservices-netflix-industry/: Microservices retrospective: what we learned (and didnt) from Netflix 
 
+- https://www.youtube.com/watch?v=WazqgfsO_kY: 3x Explore, Expand, Extract • Kent Beck • YOW! 2018 
+
