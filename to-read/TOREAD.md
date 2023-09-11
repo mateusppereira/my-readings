@@ -16,3 +16,5 @@
 
 - https://www.youtube.com/watch?v=WazqgfsO_kY: 3x Explore, Expand, Extract • Kent Beck • YOW! 2018 
 
+- https://www.youtube.com/watch?v=RNGZTkM2xOU: Eiffel's tower 
+
