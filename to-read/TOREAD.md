@@ -18,3 +18,4 @@
 
 - https://www.youtube.com/watch?v=RNGZTkM2xOU: Eiffel's tower 
 
+- https://ericnormand.substack.com/p/complexity-begets-complexity
